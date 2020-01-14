@@ -1,6 +1,8 @@
 # Fuel-Logger
 A C# Project For Campus Wide Fuel Transaction Logging
 
+Username is admin
+Password is admin
 
 I made this for work, after searching online for something similar. 
 
